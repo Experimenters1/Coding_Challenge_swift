@@ -15,3 +15,6 @@ https://unsplash.com/documentation#search-photos <br><br>
 
 
 https://api.unsplash.com/search/photos?page=1&per_page=50&query=office&client_id=1vEY3UguPxk44VTgEoyaQJOHwMGNKOOKkQWCxSXmXGU<br><br>
+
+
+https://chat.openai.com/c/09b48dbb-6600-468c-93e1-17ae32afd743<br><br>
