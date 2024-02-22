@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  test1
+//  test3
 //
-//  Created by Huy Vu on 2/20/24.
+//  Created by Huy Vu on 2/21/24.
 //
 
 import UIKit
@@ -12,7 +12,6 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
     var window: UIWindow?
 
 
-    @available(iOS 13.0, *)
     @available(iOS 13.0, *)
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.

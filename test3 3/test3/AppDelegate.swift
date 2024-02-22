@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  test1
+//  test3
 //
-//  Created by Huy Vu on 2/20/24.
+//  Created by Huy Vu on 2/21/24.
 //
 
 import UIKit
@@ -19,7 +19,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     // MARK: UISceneSession Lifecycle
 
-    @available(iOS 13.0, *)
     @available(iOS 13.0, *)
     func application(_ application: UIApplication, configurationForConnecting connectingSceneSession: UISceneSession, options: UIScene.ConnectionOptions) -> UISceneConfiguration {
         // Called when a new scene session is being created.
